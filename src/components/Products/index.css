@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.products-container {
+  display: flex;
+  justify-content: center;
+}
+.products-image {
+  height: 300px;
+  width: 200px;
+}
